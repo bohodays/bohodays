@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:ffdb8a,100:c5eaf2&height=100&section=header&fontSize=90)
 
 <h2 align="center">👋 Hello! </h2>
 
@@ -17,4 +17,4 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:ffdb8a,100:c5eaf2&height=100&section=footer&fontSize=90)
