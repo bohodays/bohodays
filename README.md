@@ -1,16 +1,20 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=100&section=header&fontSize=90)
 
-<!--
-**bohodays/bohodays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 Hello! </h2>
 
-Here are some ideas to get you started:
+<div align = "center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://images.velog.io/images/wooogie/profile/2f9a7f2f-5f6f-4b08-b3f5-f809807437a2/%EB%9A%B1%EC%9D%B49.jpg">
+<h3>Welcome to my page!</h3>
+
+</div>
+
+<div align = "center"><br/>
+<h3>💻 Tech Stack 💻</h3>
+
+![PYTHON](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python&logoColor=ffffff)
+
+</div>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
