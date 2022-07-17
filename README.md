@@ -10,7 +10,7 @@
 </div>
 
 <div align = "center"><br/>
-<h3>💻 Tech Stack 💻</h3>
+<h3>💻 Tech Stack 💻</h3><br/>
 
 ![PYTHON](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python&logoColor=ffffff)
 
