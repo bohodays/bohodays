@@ -14,7 +14,7 @@
 
 ![PYTHON](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 </div>
 
 
