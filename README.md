@@ -13,7 +13,8 @@
 <h3>💻 Tech Stack 💻</h3><br/>
 
 ![PYTHON](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python&logoColor=ffffff)
-
+![HTML](https://img.shields.io/badge/-HTML-9cf?style=for-the-badge&logo=html&logoColor=CCCCFF)
+![CSS](https://img.shields.io/badge/-CSS-9cf?style=for-the-badge&logo=css&logoColor=ffffff)
 </div>
 
 
