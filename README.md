@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:ffdb8a,100:c5eaf2&height=100&section=header&fontSize=90)
 
 <h2 align="center">👋 Hello! I'm Jungwon Park. </h2>
-
+<h3 align="center">$Rome$  $was$   $not$  $built$   $in$  $a$  $day$.</h3>
 <div align = "center">
 
 <!-- <img src="https://images.velog.io/images/wooogie/profile/2f9a7f2f-5f6f-4b08-b3f5-f809807437a2/%EB%9A%B1%EC%9D%B49.jpg"> -->
