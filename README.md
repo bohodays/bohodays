@@ -8,6 +8,7 @@
 <!-- <h3>Welcome to my page!</h3> -->
 <br>
 <a href="https://bohodays.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logoColor=white&link=https://bohodays.github.io/Portfolio/"/></a>
+  <a href="https://cactus-silkworm-e8c.notion.site/6755d9c14e364d39b09e52113fd0dc37" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f7f7f7?style=for-the-badge&logo=notion&logoColor=black&link=https://cactus-silkworm-e8c.notion.site/6755d9c14e364d39b09e52113fd0dc37"/></a>
 </div>
 
 <div align = "center"><br/>
