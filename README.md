@@ -27,4 +27,4 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:ffdb8a,100:c5eaf2&height=100&section=footer&fontSize=90)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:ffdb8a,100:c5eaf2&height=100&section=footer&fontSize=90) -->
