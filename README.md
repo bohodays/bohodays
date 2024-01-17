@@ -24,6 +24,9 @@
 <img cursor="default" src="https://img.shields.io/badge/vue.js-a8cda7?style=for-the-badge&logo=vue.js&logoColor=black">
 <img cursor="default" src="https://img.shields.io/badge/python-FFCA28?style=for-the-badge&logo=python&logoColor=black">
 <img cursor="default" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<br>
+<img cursor="default" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img cursor="default" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
 
