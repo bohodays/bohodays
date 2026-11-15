@@ -6,8 +6,8 @@
 <!-- <a href="https://bohodays.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logoColor=white&link=https://bohodays.github.io/Portfolio/"/></a> -->
 <!--   <a href="https://storm-amber-e6c.notion.site/6755d9c14e364d39b09e52113fd0dc37?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f7f7f7?style=for-the-badge&logo=notion&logoColor=black&link=https://cactus-silkworm-e8c.notion.site/6755d9c14e364d39b09e52113fd0dc37"/></a> -->
 
-<h3 align="left"><em>"기술로 말하고, 소통으로 완성합니다."</em></h3>
-<div>개발과 프로젝트 관리를 넘나들며, 소통으로 팀간의 문제를 해결하고 성과를 이끌어내는 개발자 <strong>박중원</strong>입니다.</div>
+<h3 align="left"><em>"구현을 넘어 문제를 스스로 찾아 개선하는 프론트엔드 개발자 박중원입니다.”"</em></h3>
+<div>문서마다 흩어져 있던 발급 로직을 <strong>레지스트리 패턴</strong>으로 통합해 신규 문서 추가를 설정 1건 등록으로 줄였고, 초기 화면의 렌더링 지연을 직접 감지해 측정으로 원인을 찾아 <strong>초기 번들 62%·LCP65%</strong>를 개선했습니다. 또한 노후 시스템 재구축 과정에서 복잡한 단계형 플로우를 <strong>타입 안전한 Funnel 훅</strong>으로 설계해, 단계 간 데이터 오류를 컴파일 단계에서 차단했습니다.</div>
 
 <br>
 
